@@ -4,6 +4,8 @@
 
 **Sector:** retail / direct marketing · **Role:** contributor (~35% ownership, team of 2 DS + engineering) · **Stack:** Python · Gemini (Vertex AI SDK) · K-means · BigQuery · Cloud Composer · GCP · **Status:** delivered to production, 2025
 
+*Writeup prepared October 2026; the implementation is client property.*
+
 The client owns the business metrics and internal identifiers. Features are described by concept; exact reengagement rates are expressed as ranges.
 
 ---
